@@ -255,8 +255,8 @@ i{
 .social{
     text-align: center;
     display: block;
-    padding-top: 6%;
-    padding-bottom: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 .social ul{
     padding-left: 0px;
@@ -264,7 +264,7 @@ i{
 .social li{
     list-style-type: none;
     display: inline-block;
-    border:1px solid #c8c2c2;
+    /*border:1px solid #c8c2c2;*/
     margin-right: 5px;
     border-radius: 3px;
 }
